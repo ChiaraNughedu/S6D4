@@ -8,6 +8,8 @@ html, body {
     width: 40px;
     height: 40px;
     border-radius: 50%;
+    background-color: rgb(194, 193, 193);
+    color: black;
 }
 .profile img {
     width: 40px;
@@ -32,4 +34,8 @@ html, body {
 }
 .advice h6, .advice p {
     line-height: 1.2;
+}
+.icon {
+    color: rgb(255, 94, 0);
+    font-size: 1rem;
 }
