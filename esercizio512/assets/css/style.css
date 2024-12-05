@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+.bell {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.profile img {
+    width: 40px;
+    border-radius: 50%;
+
+}
+.hero {
+    background-color: #754FFE;
+}
+.btn1 {
+    background-color: #19CB98;
+    border: none;
+}
+.btn2 {
+    border: none;
+}
+.video {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FFEEDA;
+}
+.advice h6, .advice p {
+    line-height: 1.2;
+}
